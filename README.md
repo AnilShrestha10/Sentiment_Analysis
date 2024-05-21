@@ -1,15 +1,24 @@
-**Sentiment Analysis: Identifying Negative Reviews**
+**SENTIMENT ANALYSIS: Identifying Negative Reviews**
 
 This project is all about spotting negative reviews using advanced techniques that analyze the feelings expressed in text. We're diving into a dataset packed with info about movies and their reviews. Our mission? To prep the data, dig into its details through some data exploration, and teach machines to tell whether a review is a downer or a thumbs-up.
 
+
 **Features We're Looking At:**
-**1. tconst:** Each movie gets its own special ID, like a secret code.
-**2. title_type:** Tells us what kind of title we're dealing with – is it a movie, a short film, or something else?
-**3. start_year:** The year the movie hit the screens or started streaming.
-**4. is_adult:** A little binary flag that tells us if it's a grown-up movie (1) or not (0).
-**5. average_rating:** The IMDb rating average for the movie.
-**6. review:** This is where users pour out their thoughts on the movie.
-**7. pos:** A special label that says if the review is positive (1) or negative (0).
+
+**tconst:** Each movie gets its own special ID, like a secret code.
+
+**title_type:** Tells us what kind of title we're dealing with – is it a movie, a short film, or something else?
+
+**start_year:** The year the movie hit the screens or started streaming.
+
+**is_adult:** A little binary flag that tells us if it's a grown-up movie (1) or not (0).
+
+**average_rating:** The IMDb rating average for the movie.
+
+**review:** This is where users pour out their thoughts on the movie.
+
+**pos:** A special label that says if the review is positive (1) or negative (0).
+
 
 **How We're Getting Ready**
 We start by checking if anything's missing or if there are any copies lying around in the data. Then, we tidy up the reviews by making sure they're all lowercase and only have letters – no funny characters.
