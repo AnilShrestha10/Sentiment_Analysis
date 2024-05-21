@@ -1,4 +1,5 @@
 **Sentiment Analysis: Identifying Negative Reviews**
+
 This project is all about spotting negative reviews using advanced techniques that analyze the feelings expressed in text. We're diving into a dataset packed with info about movies and their reviews. Our mission? To prep the data, dig into its details through some data exploration, and teach machines to tell whether a review is a downer or a thumbs-up.
 
 **Features We're Looking At**
